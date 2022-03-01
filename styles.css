@@ -1,12 +1,14 @@
 .top{
-background-color:  #FFD32D;
-margin-top: 50%;
+background-color:  #5463FF;
+height: 50vh ;
 }
 .bottom{
-background-color:#008E89 ;
-
+background-color:
+#FFC300 ;
+height: 50vh;
 }
 footer{
-    color: white;
-    margin-top: 100px;
+    color:black;
+    margin-top: 4px;
+    text-align: center;
 }
